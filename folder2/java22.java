@@ -1,4 +1,4 @@
-public class java2 { keerthi
+public class java2 { 
     public static void main(String[] args) {
         float first = 1.20f, second = 2.45f;
         System.out.println("--Before swap--");
