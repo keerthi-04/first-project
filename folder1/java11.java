@@ -1,4 +1,4 @@
-public class java1 { master
+public class java1 {
     public static void main(String[] args) {
         
         int first = 10;
